@@ -1,0 +1,201 @@
+﻿Item_ID,Category,Company,Model,Price_USD,Specification,Stock_Status,Stock_Quantity
+1,Smartphone,Apple,Apple Smartphone A100,299,"6.1-inch OLED, 8GB RAM, 128GB storage, 48MP camera, 5G",Out of Stock,0
+2,Smartphone,Samsung,Samsung Smartphone B101,346,"6.7-inch AMOLED, 12GB RAM, 256GB storage, 50MP camera, 5G",In Stock,12
+3,Smartphone,Google,Google Smartphone C102,393,"6.5-inch OLED, 8GB RAM, 256GB storage, 50MP camera, 5G",In Stock,19
+4,Smartphone,OnePlus,OnePlus Smartphone D103,440,"6.8-inch AMOLED, 12GB RAM, 512GB storage, 200MP camera, 5G",In Stock,26
+5,Smartphone,Xiaomi,Xiaomi Smartphone E104,487,"6.1-inch OLED, 8GB RAM, 128GB storage, 48MP camera, 5G",Out of Stock,0
+6,Smartphone,Motorola,Motorola Smartphone F105,312,"6.7-inch AMOLED, 12GB RAM, 256GB storage, 50MP camera, 5G",In Stock,40
+7,Smartphone,Sony,Sony Smartphone G106,359,"6.5-inch OLED, 8GB RAM, 256GB storage, 50MP camera, 5G",In Stock,47
+8,Smartphone,Nothing,Nothing Smartphone H107,406,"6.8-inch AMOLED, 12GB RAM, 512GB storage, 200MP camera, 5G",In Stock,54
+9,Smartphone,Oppo,Oppo Smartphone I108,453,"6.1-inch OLED, 8GB RAM, 128GB storage, 48MP camera, 5G",Out of Stock,0
+10,Smartphone,Vivo,Vivo Smartphone J109,500,"6.7-inch AMOLED, 12GB RAM, 256GB storage, 50MP camera, 5G",In Stock,68
+11,Smartphone,Apple,Apple Smartphone K110,325,"6.5-inch OLED, 8GB RAM, 256GB storage, 50MP camera, 5G",In Stock,75
+12,Smartphone,Samsung,Samsung Smartphone L111,372,"6.8-inch AMOLED, 12GB RAM, 512GB storage, 200MP camera, 5G",In Stock,82
+13,Smartphone,Google,Google Smartphone M112,419,"6.1-inch OLED, 8GB RAM, 128GB storage, 48MP camera, 5G",Out of Stock,0
+14,Smartphone,OnePlus,OnePlus Smartphone N113,466,"6.7-inch AMOLED, 12GB RAM, 256GB storage, 50MP camera, 5G",In Stock,96
+15,Smartphone,Xiaomi,Xiaomi Smartphone O114,513,"6.5-inch OLED, 8GB RAM, 256GB storage, 50MP camera, 5G",In Stock,7
+16,Smartphone,Motorola,Motorola Smartphone P115,338,"6.8-inch AMOLED, 12GB RAM, 512GB storage, 200MP camera, 5G",In Stock,14
+17,Smartphone,Sony,Sony Smartphone Q116,385,"6.1-inch OLED, 8GB RAM, 128GB storage, 48MP camera, 5G",Out of Stock,0
+18,Smartphone,Nothing,Nothing Smartphone R117,432,"6.7-inch AMOLED, 12GB RAM, 256GB storage, 50MP camera, 5G",In Stock,28
+19,Smartphone,Oppo,Oppo Smartphone S118,479,"6.5-inch OLED, 8GB RAM, 256GB storage, 50MP camera, 5G",In Stock,35
+20,Smartphone,Vivo,Vivo Smartphone T119,526,"6.8-inch AMOLED, 12GB RAM, 512GB storage, 200MP camera, 5G",In Stock,42
+21,Laptop,Apple,Apple Laptop A100,599,"14-inch FHD IPS, Core i5, 16GB RAM, 512GB SSD, Wi-Fi 6",Out of Stock,0
+22,Laptop,Dell,Dell Laptop B101,682,"15.6-inch FHD IPS, Core i7, 16GB RAM, 1TB SSD",In Stock,12
+23,Laptop,HP,HP Laptop C102,765,"13.6-inch display, 16GB RAM, 512GB SSD, integrated graphics",In Stock,19
+24,Laptop,Lenovo,Lenovo Laptop D103,848,"16-inch QHD display, 32GB RAM, 1TB SSD, RTX graphics",In Stock,26
+25,Laptop,ASUS,ASUS Laptop E104,931,"14-inch FHD IPS, Core i5, 16GB RAM, 512GB SSD, Wi-Fi 6",Out of Stock,0
+26,Laptop,Acer,Acer Laptop F105,612,"15.6-inch FHD IPS, Core i7, 16GB RAM, 1TB SSD",In Stock,40
+27,Laptop,Microsoft,Microsoft Laptop G106,695,"13.6-inch display, 16GB RAM, 512GB SSD, integrated graphics",In Stock,47
+28,Laptop,MSI,MSI Laptop H107,778,"16-inch QHD display, 32GB RAM, 1TB SSD, RTX graphics",In Stock,54
+29,Laptop,Razer,Razer Laptop I108,861,"14-inch FHD IPS, Core i5, 16GB RAM, 512GB SSD, Wi-Fi 6",Out of Stock,0
+30,Laptop,Samsung,Samsung Laptop J109,944,"15.6-inch FHD IPS, Core i7, 16GB RAM, 1TB SSD",In Stock,68
+31,Laptop,Apple,Apple Laptop K110,625,"13.6-inch display, 16GB RAM, 512GB SSD, integrated graphics",In Stock,75
+32,Laptop,Dell,Dell Laptop L111,708,"16-inch QHD display, 32GB RAM, 1TB SSD, RTX graphics",In Stock,82
+33,Laptop,HP,HP Laptop M112,791,"14-inch FHD IPS, Core i5, 16GB RAM, 512GB SSD, Wi-Fi 6",Out of Stock,0
+34,Laptop,Lenovo,Lenovo Laptop N113,874,"15.6-inch FHD IPS, Core i7, 16GB RAM, 1TB SSD",In Stock,96
+35,Laptop,ASUS,ASUS Laptop O114,957,"13.6-inch display, 16GB RAM, 512GB SSD, integrated graphics",In Stock,7
+36,Laptop,Acer,Acer Laptop P115,638,"16-inch QHD display, 32GB RAM, 1TB SSD, RTX graphics",In Stock,14
+37,Laptop,Microsoft,Microsoft Laptop Q116,721,"14-inch FHD IPS, Core i5, 16GB RAM, 512GB SSD, Wi-Fi 6",Out of Stock,0
+38,Laptop,MSI,MSI Laptop R117,804,"15.6-inch FHD IPS, Core i7, 16GB RAM, 1TB SSD",In Stock,28
+39,Laptop,Razer,Razer Laptop S118,887,"13.6-inch display, 16GB RAM, 512GB SSD, integrated graphics",In Stock,35
+40,Laptop,Samsung,Samsung Laptop T119,970,"16-inch QHD display, 32GB RAM, 1TB SSD, RTX graphics",In Stock,42
+41,Tablet,Apple,Apple Tablet A100,249,"10.9-inch display, 8GB RAM, 128GB storage, Wi-Fi 6",Out of Stock,0
+42,Tablet,Samsung,Samsung Tablet B101,288,"11-inch 120Hz display, 8GB RAM, 256GB storage",In Stock,12
+43,Tablet,Lenovo,Lenovo Tablet C102,327,"12.9-inch display, 12GB RAM, 256GB storage, USB-C",In Stock,19
+44,Tablet,Microsoft,Microsoft Tablet D103,366,"10.5-inch display, 6GB RAM, 128GB storage, Wi-Fi",In Stock,26
+45,Tablet,Xiaomi,Xiaomi Tablet E104,405,"10.9-inch display, 8GB RAM, 128GB storage, Wi-Fi 6",Out of Stock,0
+46,Tablet,Amazon,Amazon Tablet F105,262,"11-inch 120Hz display, 8GB RAM, 256GB storage",In Stock,40
+47,Tablet,Huawei,Huawei Tablet G106,301,"12.9-inch display, 12GB RAM, 256GB storage, USB-C",In Stock,47
+48,Tablet,OnePlus,OnePlus Tablet H107,340,"10.5-inch display, 6GB RAM, 128GB storage, Wi-Fi",In Stock,54
+49,Tablet,Google,Google Tablet I108,379,"10.9-inch display, 8GB RAM, 128GB storage, Wi-Fi 6",Out of Stock,0
+50,Tablet,ASUS,ASUS Tablet J109,418,"11-inch 120Hz display, 8GB RAM, 256GB storage",In Stock,68
+51,Tablet,Apple,Apple Tablet K110,275,"12.9-inch display, 12GB RAM, 256GB storage, USB-C",In Stock,75
+52,Tablet,Samsung,Samsung Tablet L111,314,"10.5-inch display, 6GB RAM, 128GB storage, Wi-Fi",In Stock,82
+53,Tablet,Lenovo,Lenovo Tablet M112,353,"10.9-inch display, 8GB RAM, 128GB storage, Wi-Fi 6",Out of Stock,0
+54,Tablet,Microsoft,Microsoft Tablet N113,392,"11-inch 120Hz display, 8GB RAM, 256GB storage",In Stock,96
+55,Tablet,Xiaomi,Xiaomi Tablet O114,431,"12.9-inch display, 12GB RAM, 256GB storage, USB-C",In Stock,7
+56,Tablet,Amazon,Amazon Tablet P115,288,"10.5-inch display, 6GB RAM, 128GB storage, Wi-Fi",In Stock,14
+57,Tablet,Huawei,Huawei Tablet Q116,327,"10.9-inch display, 8GB RAM, 128GB storage, Wi-Fi 6",Out of Stock,0
+58,Tablet,OnePlus,OnePlus Tablet R117,366,"11-inch 120Hz display, 8GB RAM, 256GB storage",In Stock,28
+59,Tablet,Google,Google Tablet S118,405,"12.9-inch display, 12GB RAM, 256GB storage, USB-C",In Stock,35
+60,Tablet,ASUS,ASUS Tablet T119,444,"10.5-inch display, 6GB RAM, 128GB storage, Wi-Fi",In Stock,42
+61,Monitor,Dell,Dell Monitor A100,179,"24-inch FHD IPS, 100Hz, HDMI/DisplayPort",Out of Stock,0
+62,Monitor,LG,LG Monitor B101,210,"27-inch QHD IPS, 165Hz, HDR, DisplayPort",In Stock,12
+63,Monitor,Samsung,Samsung Monitor C102,241,"32-inch 4K IPS, 60Hz, USB-C",In Stock,19
+64,Monitor,ASUS,ASUS Monitor D103,272,"34-inch ultrawide QHD, 144Hz, Adaptive Sync",In Stock,26
+65,Monitor,Acer,Acer Monitor E104,303,"24-inch FHD IPS, 100Hz, HDMI/DisplayPort",Out of Stock,0
+66,Monitor,BenQ,BenQ Monitor F105,192,"27-inch QHD IPS, 165Hz, HDR, DisplayPort",In Stock,40
+67,Monitor,HP,HP Monitor G106,223,"32-inch 4K IPS, 60Hz, USB-C",In Stock,47
+68,Monitor,Lenovo,Lenovo Monitor H107,254,"34-inch ultrawide QHD, 144Hz, Adaptive Sync",In Stock,54
+69,Monitor,MSI,MSI Monitor I108,285,"24-inch FHD IPS, 100Hz, HDMI/DisplayPort",Out of Stock,0
+70,Monitor,ViewSonic,ViewSonic Monitor J109,316,"27-inch QHD IPS, 165Hz, HDR, DisplayPort",In Stock,68
+71,Monitor,Dell,Dell Monitor K110,205,"32-inch 4K IPS, 60Hz, USB-C",In Stock,75
+72,Monitor,LG,LG Monitor L111,236,"34-inch ultrawide QHD, 144Hz, Adaptive Sync",In Stock,82
+73,Monitor,Samsung,Samsung Monitor M112,267,"24-inch FHD IPS, 100Hz, HDMI/DisplayPort",Out of Stock,0
+74,Monitor,ASUS,ASUS Monitor N113,298,"27-inch QHD IPS, 165Hz, HDR, DisplayPort",In Stock,96
+75,Monitor,Acer,Acer Monitor O114,329,"32-inch 4K IPS, 60Hz, USB-C",In Stock,7
+76,Monitor,BenQ,BenQ Monitor P115,218,"34-inch ultrawide QHD, 144Hz, Adaptive Sync",In Stock,14
+77,Monitor,HP,HP Monitor Q116,249,"24-inch FHD IPS, 100Hz, HDMI/DisplayPort",Out of Stock,0
+78,Monitor,Lenovo,Lenovo Monitor R117,280,"27-inch QHD IPS, 165Hz, HDR, DisplayPort",In Stock,28
+79,Monitor,MSI,MSI Monitor S118,311,"32-inch 4K IPS, 60Hz, USB-C",In Stock,35
+80,Monitor,ViewSonic,ViewSonic Monitor T119,342,"34-inch ultrawide QHD, 144Hz, Adaptive Sync",In Stock,42
+81,Headphones,Sony,Sony Headphones A100,79,"Over-ear wireless, ANC, Bluetooth 5.3, 30-hour battery",Out of Stock,0
+82,Headphones,Bose,Bose Headphones B101,98,"In-ear wireless, ANC, Bluetooth 5.3, 8-hour battery",In Stock,12
+83,Headphones,Sennheiser,Sennheiser Headphones C102,117,"Gaming headset, 7.1 surround, USB, detachable microphone",In Stock,19
+84,Headphones,JBL,JBL Headphones D103,136,"Over-ear wired, 40mm drivers, 3.5mm jack",In Stock,26
+85,Headphones,Apple,Apple Headphones E104,155,"Over-ear wireless, ANC, Bluetooth 5.3, 30-hour battery",Out of Stock,0
+86,Headphones,Audio-Technica,Audio-Technica Headphones F105,92,"In-ear wireless, ANC, Bluetooth 5.3, 8-hour battery",In Stock,40
+87,Headphones,Anker,Anker Headphones G106,111,"Gaming headset, 7.1 surround, USB, detachable microphone",In Stock,47
+88,Headphones,Beats,Beats Headphones H107,130,"Over-ear wired, 40mm drivers, 3.5mm jack",In Stock,54
+89,Headphones,Logitech,Logitech Headphones I108,149,"Over-ear wireless, ANC, Bluetooth 5.3, 30-hour battery",Out of Stock,0
+90,Headphones,SteelSeries,SteelSeries Headphones J109,168,"In-ear wireless, ANC, Bluetooth 5.3, 8-hour battery",In Stock,68
+91,Headphones,Sony,Sony Headphones K110,105,"Gaming headset, 7.1 surround, USB, detachable microphone",In Stock,75
+92,Headphones,Bose,Bose Headphones L111,124,"Over-ear wired, 40mm drivers, 3.5mm jack",In Stock,82
+93,Headphones,Sennheiser,Sennheiser Headphones M112,143,"Over-ear wireless, ANC, Bluetooth 5.3, 30-hour battery",Out of Stock,0
+94,Headphones,JBL,JBL Headphones N113,162,"In-ear wireless, ANC, Bluetooth 5.3, 8-hour battery",In Stock,96
+95,Headphones,Apple,Apple Headphones O114,181,"Gaming headset, 7.1 surround, USB, detachable microphone",In Stock,7
+96,Headphones,Audio-Technica,Audio-Technica Headphones P115,118,"Over-ear wired, 40mm drivers, 3.5mm jack",In Stock,14
+97,Headphones,Anker,Anker Headphones Q116,137,"Over-ear wireless, ANC, Bluetooth 5.3, 30-hour battery",Out of Stock,0
+98,Headphones,Beats,Beats Headphones R117,156,"In-ear wireless, ANC, Bluetooth 5.3, 8-hour battery",In Stock,28
+99,Headphones,Logitech,Logitech Headphones S118,175,"Gaming headset, 7.1 surround, USB, detachable microphone",In Stock,35
+100,Headphones,SteelSeries,SteelSeries Headphones T119,194,"Over-ear wired, 40mm drivers, 3.5mm jack",In Stock,42
+101,Smartwatch,Apple,Apple Smartwatch A100,129,"1.9-inch AMOLED, GPS, heart-rate sensor, 5ATM",Out of Stock,0
+102,Smartwatch,Samsung,Samsung Smartwatch B101,156,"1.5-inch AMOLED, GPS, NFC, sleep tracking",In Stock,12
+103,Smartwatch,Garmin,Garmin Smartwatch C102,183,"1.4-inch display, GPS, 10-day battery, 5ATM",In Stock,19
+104,Smartwatch,Fitbit,Fitbit Smartwatch D103,210,"2-inch AMOLED, LTE, GPS, health sensors",In Stock,26
+105,Smartwatch,Huawei,Huawei Smartwatch E104,237,"1.9-inch AMOLED, GPS, heart-rate sensor, 5ATM",Out of Stock,0
+106,Smartwatch,Amazfit,Amazfit Smartwatch F105,142,"1.5-inch AMOLED, GPS, NFC, sleep tracking",In Stock,40
+107,Smartwatch,Google,Google Smartwatch G106,169,"1.4-inch display, GPS, 10-day battery, 5ATM",In Stock,47
+108,Smartwatch,OnePlus,OnePlus Smartwatch H107,196,"2-inch AMOLED, LTE, GPS, health sensors",In Stock,54
+109,Smartwatch,Xiaomi,Xiaomi Smartwatch I108,223,"1.9-inch AMOLED, GPS, heart-rate sensor, 5ATM",Out of Stock,0
+110,Smartwatch,Fossil,Fossil Smartwatch J109,250,"1.5-inch AMOLED, GPS, NFC, sleep tracking",In Stock,68
+111,Smartwatch,Apple,Apple Smartwatch K110,155,"1.4-inch display, GPS, 10-day battery, 5ATM",In Stock,75
+112,Smartwatch,Samsung,Samsung Smartwatch L111,182,"2-inch AMOLED, LTE, GPS, health sensors",In Stock,82
+113,Smartwatch,Garmin,Garmin Smartwatch M112,209,"1.9-inch AMOLED, GPS, heart-rate sensor, 5ATM",Out of Stock,0
+114,Smartwatch,Fitbit,Fitbit Smartwatch N113,236,"1.5-inch AMOLED, GPS, NFC, sleep tracking",In Stock,96
+115,Smartwatch,Huawei,Huawei Smartwatch O114,263,"1.4-inch display, GPS, 10-day battery, 5ATM",In Stock,7
+116,Smartwatch,Amazfit,Amazfit Smartwatch P115,168,"2-inch AMOLED, LTE, GPS, health sensors",In Stock,14
+117,Smartwatch,Google,Google Smartwatch Q116,195,"1.9-inch AMOLED, GPS, heart-rate sensor, 5ATM",Out of Stock,0
+118,Smartwatch,OnePlus,OnePlus Smartwatch R117,222,"1.5-inch AMOLED, GPS, NFC, sleep tracking",In Stock,28
+119,Smartwatch,Xiaomi,Xiaomi Smartwatch S118,249,"1.4-inch display, GPS, 10-day battery, 5ATM",In Stock,35
+120,Smartwatch,Fossil,Fossil Smartwatch T119,276,"2-inch AMOLED, LTE, GPS, health sensors",In Stock,42
+121,Camera,Canon,Canon Camera A100,449,"24MP APS-C mirrorless, 4K video, Wi-Fi",Out of Stock,0
+122,Camera,Sony,Sony Camera B101,520,"33MP full-frame mirrorless, 4K60, IBIS",In Stock,12
+123,Camera,Nikon,Nikon Camera C102,591,"45MP full-frame, 8K video, Wi-Fi/Bluetooth",In Stock,19
+124,Camera,Fujifilm,Fujifilm Camera D103,662,"20MP action camera, 5.3K video, waterproof",In Stock,26
+125,Camera,Panasonic,Panasonic Camera E104,733,"24MP APS-C mirrorless, 4K video, Wi-Fi",Out of Stock,0
+126,Camera,GoPro,GoPro Camera F105,462,"33MP full-frame mirrorless, 4K60, IBIS",In Stock,40
+127,Camera,DJI,DJI Camera G106,533,"45MP full-frame, 8K video, Wi-Fi/Bluetooth",In Stock,47
+128,Camera,Olympus,Olympus Camera H107,604,"20MP action camera, 5.3K video, waterproof",In Stock,54
+129,Camera,Leica,Leica Camera I108,675,"24MP APS-C mirrorless, 4K video, Wi-Fi",Out of Stock,0
+130,Camera,Kodak,Kodak Camera J109,746,"33MP full-frame mirrorless, 4K60, IBIS",In Stock,68
+131,Camera,Canon,Canon Camera K110,475,"45MP full-frame, 8K video, Wi-Fi/Bluetooth",In Stock,75
+132,Camera,Sony,Sony Camera L111,546,"20MP action camera, 5.3K video, waterproof",In Stock,82
+133,Camera,Nikon,Nikon Camera M112,617,"24MP APS-C mirrorless, 4K video, Wi-Fi",Out of Stock,0
+134,Camera,Fujifilm,Fujifilm Camera N113,688,"33MP full-frame mirrorless, 4K60, IBIS",In Stock,96
+135,Camera,Panasonic,Panasonic Camera O114,759,"45MP full-frame, 8K video, Wi-Fi/Bluetooth",In Stock,7
+136,Camera,GoPro,GoPro Camera P115,488,"20MP action camera, 5.3K video, waterproof",In Stock,14
+137,Camera,DJI,DJI Camera Q116,559,"24MP APS-C mirrorless, 4K video, Wi-Fi",Out of Stock,0
+138,Camera,Olympus,Olympus Camera R117,630,"33MP full-frame mirrorless, 4K60, IBIS",In Stock,28
+139,Camera,Leica,Leica Camera S118,701,"45MP full-frame, 8K video, Wi-Fi/Bluetooth",In Stock,35
+140,Camera,Kodak,Kodak Camera T119,772,"20MP action camera, 5.3K video, waterproof",In Stock,42
+141,Gaming,Sony,Sony Gaming A100,99,"Next-gen console, 1TB SSD, 4K output, Wi-Fi 6",Out of Stock,0
+142,Gaming,Microsoft,Microsoft Gaming B101,136,"Handheld console, 7-inch display, 512GB storage",In Stock,12
+143,Gaming,Nintendo,Nintendo Gaming C102,173,"Wireless gaming mouse, 25K DPI, 70-hour battery",In Stock,19
+144,Gaming,Valve,Valve Gaming D103,210,"Mechanical keyboard, RGB, hot-swappable switches",In Stock,26
+145,Gaming,ASUS,ASUS Gaming E104,247,"Next-gen console, 1TB SSD, 4K output, Wi-Fi 6",Out of Stock,0
+146,Gaming,Razer,Razer Gaming F105,112,"Handheld console, 7-inch display, 512GB storage",In Stock,40
+147,Gaming,Logitech,Logitech Gaming G106,149,"Wireless gaming mouse, 25K DPI, 70-hour battery",In Stock,47
+148,Gaming,Corsair,Corsair Gaming H107,186,"Mechanical keyboard, RGB, hot-swappable switches",In Stock,54
+149,Gaming,MSI,MSI Gaming I108,223,"Next-gen console, 1TB SSD, 4K output, Wi-Fi 6",Out of Stock,0
+150,Gaming,SteelSeries,SteelSeries Gaming J109,260,"Handheld console, 7-inch display, 512GB storage",In Stock,68
+151,Gaming,Sony,Sony Gaming K110,125,"Wireless gaming mouse, 25K DPI, 70-hour battery",In Stock,75
+152,Gaming,Microsoft,Microsoft Gaming L111,162,"Mechanical keyboard, RGB, hot-swappable switches",In Stock,82
+153,Gaming,Nintendo,Nintendo Gaming M112,199,"Next-gen console, 1TB SSD, 4K output, Wi-Fi 6",Out of Stock,0
+154,Gaming,Valve,Valve Gaming N113,236,"Handheld console, 7-inch display, 512GB storage",In Stock,96
+155,Gaming,ASUS,ASUS Gaming O114,273,"Wireless gaming mouse, 25K DPI, 70-hour battery",In Stock,7
+156,Gaming,Razer,Razer Gaming P115,138,"Mechanical keyboard, RGB, hot-swappable switches",In Stock,14
+157,Gaming,Logitech,Logitech Gaming Q116,175,"Next-gen console, 1TB SSD, 4K output, Wi-Fi 6",Out of Stock,0
+158,Gaming,Corsair,Corsair Gaming R117,212,"Handheld console, 7-inch display, 512GB storage",In Stock,28
+159,Gaming,MSI,MSI Gaming S118,249,"Wireless gaming mouse, 25K DPI, 70-hour battery",In Stock,35
+160,Gaming,SteelSeries,SteelSeries Gaming T119,286,"Mechanical keyboard, RGB, hot-swappable switches",In Stock,42
+161,Router,TP-Link,TP-Link Router A100,59,"Wi-Fi 6 dual-band router, 3000 Mbps, 4 LAN ports",Out of Stock,0
+162,Router,Netgear,Netgear Router B101,88,"Wi-Fi 6E tri-band router, 5400 Mbps, 2.5GbE",In Stock,12
+163,Router,ASUS,ASUS Router C102,117,"8-port Gigabit switch, managed, VLAN support",In Stock,19
+164,Router,Ubiquiti,Ubiquiti Router D103,146,"Wi-Fi 6 mesh system, 3-pack, app management",In Stock,26
+165,Router,D-Link,D-Link Router E104,175,"Wi-Fi 6 dual-band router, 3000 Mbps, 4 LAN ports",Out of Stock,0
+166,Router,Linksys,Linksys Router F105,72,"Wi-Fi 6E tri-band router, 5400 Mbps, 2.5GbE",In Stock,40
+167,Router,Synology,Synology Router G106,101,"8-port Gigabit switch, managed, VLAN support",In Stock,47
+168,Router,Cisco,Cisco Router H107,130,"Wi-Fi 6 mesh system, 3-pack, app management",In Stock,54
+169,Router,Tenda,Tenda Router I108,159,"Wi-Fi 6 dual-band router, 3000 Mbps, 4 LAN ports",Out of Stock,0
+170,Router,Huawei,Huawei Router J109,188,"Wi-Fi 6E tri-band router, 5400 Mbps, 2.5GbE",In Stock,68
+171,Router,TP-Link,TP-Link Router K110,85,"8-port Gigabit switch, managed, VLAN support",In Stock,75
+172,Router,Netgear,Netgear Router L111,114,"Wi-Fi 6 mesh system, 3-pack, app management",In Stock,82
+173,Router,ASUS,ASUS Router M112,143,"Wi-Fi 6 dual-band router, 3000 Mbps, 4 LAN ports",Out of Stock,0
+174,Router,Ubiquiti,Ubiquiti Router N113,172,"Wi-Fi 6E tri-band router, 5400 Mbps, 2.5GbE",In Stock,96
+175,Router,D-Link,D-Link Router O114,201,"8-port Gigabit switch, managed, VLAN support",In Stock,7
+176,Router,Linksys,Linksys Router P115,98,"Wi-Fi 6 mesh system, 3-pack, app management",In Stock,14
+177,Router,Synology,Synology Router Q116,127,"Wi-Fi 6 dual-band router, 3000 Mbps, 4 LAN ports",Out of Stock,0
+178,Router,Cisco,Cisco Router R117,156,"Wi-Fi 6E tri-band router, 5400 Mbps, 2.5GbE",In Stock,28
+179,Router,Tenda,Tenda Router S118,185,"8-port Gigabit switch, managed, VLAN support",In Stock,35
+180,Router,Huawei,Huawei Router T119,214,"Wi-Fi 6 mesh system, 3-pack, app management",In Stock,42
+181,Accessory,Anker,Anker Accessory A100,29,"20,000mAh power bank, USB-C PD 65W",Out of Stock,0
+182,Accessory,Belkin,Belkin Accessory B101,46,"USB-C hub, HDMI 4K, 100W PD, 8 ports",In Stock,12
+183,Accessory,Logitech,Logitech Accessory C102,63,"1TB portable SSD, USB-C, up to 1,050MB/s",In Stock,19
+184,Accessory,UGREEN,UGREEN Accessory D103,80,"Wireless keyboard and mouse, 2.4GHz, rechargeable",In Stock,26
+185,Accessory,Kingston,Kingston Accessory E104,97,"20,000mAh power bank, USB-C PD 65W",Out of Stock,0
+186,Accessory,SanDisk,SanDisk Accessory F105,42,"USB-C hub, HDMI 4K, 100W PD, 8 ports",In Stock,40
+187,Accessory,Samsung,Samsung Accessory G106,59,"1TB portable SSD, USB-C, up to 1,050MB/s",In Stock,47
+188,Accessory,Baseus,Baseus Accessory H107,76,"Wireless keyboard and mouse, 2.4GHz, rechargeable",In Stock,54
+189,Accessory,Razer,Razer Accessory I108,93,"20,000mAh power bank, USB-C PD 65W",Out of Stock,0
+190,Accessory,Corsair,Corsair Accessory J109,110,"USB-C hub, HDMI 4K, 100W PD, 8 ports",In Stock,68
+191,Accessory,Anker,Anker Accessory K110,55,"1TB portable SSD, USB-C, up to 1,050MB/s",In Stock,75
+192,Accessory,Belkin,Belkin Accessory L111,72,"Wireless keyboard and mouse, 2.4GHz, rechargeable",In Stock,82
+193,Accessory,Logitech,Logitech Accessory M112,89,"20,000mAh power bank, USB-C PD 65W",Out of Stock,0
+194,Accessory,UGREEN,UGREEN Accessory N113,106,"USB-C hub, HDMI 4K, 100W PD, 8 ports",In Stock,96
+195,Accessory,Kingston,Kingston Accessory O114,123,"1TB portable SSD, USB-C, up to 1,050MB/s",In Stock,7
+196,Accessory,SanDisk,SanDisk Accessory P115,68,"Wireless keyboard and mouse, 2.4GHz, rechargeable",In Stock,14
+197,Accessory,Samsung,Samsung Accessory Q116,85,"20,000mAh power bank, USB-C PD 65W",Out of Stock,0
+198,Accessory,Baseus,Baseus Accessory R117,102,"USB-C hub, HDMI 4K, 100W PD, 8 ports",In Stock,28
+199,Accessory,Razer,Razer Accessory S118,119,"1TB portable SSD, USB-C, up to 1,050MB/s",In Stock,35
+200,Accessory,Corsair,Corsair Accessory T119,136,"Wireless keyboard and mouse, 2.4GHz, rechargeable",In Stock,42

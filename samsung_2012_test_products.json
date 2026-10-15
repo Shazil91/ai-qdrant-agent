@@ -1,0 +1,20 @@
+﻿[
+  {
+    "product_id": "test-samsung-galaxy-s3",
+    "brand": "Samsung",
+    "model": "Samsung Galaxy S III",
+    "release_date": "2012-05-29",
+    "ram": "1 GB",
+    "storage": "16 GB, 32 GB, 64 GB",
+    "processor": "Samsung Exynos 4412"
+  },
+  {
+    "product_id": "test-samsung-galaxy-note-2",
+    "brand": "Samsung",
+    "model": "Samsung Galaxy Note II",
+    "release_date": "2012-09-26",
+    "ram": "2 GB",
+    "storage": "16 GB, 32 GB, 64 GB",
+    "processor": "Samsung Exynos 4412"
+  }
+]

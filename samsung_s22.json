@@ -1,0 +1,287 @@
+{
+  "status": "success",
+  "data": {
+    "_id": "63e96260ff7af4b68a303f3f",
+    "Product": {
+      "Manufacturer": "Samsung Electronics",
+      "OEM ID": "S901WZEEXAC",
+      "Brand": "Samsung",
+      "Region": "North America (NA)",
+      "Country": "Canada",
+      "Category": "Smartphones",
+      "Model": "Samsung Galaxy S22",
+      "Version": "SM-S901W",
+      "SIM Type": "Dual",
+      "english_id": "63e96260ff7af4b68a303f3f",
+      "Is Translated": true
+    },
+    "Design": {
+      "Body": {
+        "Height": "146 mm, 5.75 inch",
+        "Width": "70.6 mm, 2.78 inch",
+        "Weight": "167 g, 5.89 ounces",
+        "Thickness": "0.3 inches, 7.6 mm",
+        "IP Rating": "IP68",
+        "Colors": "Phantom Black, White, Burgundy, Green, Graphite, Red, Sky Blue",
+        "Colors_Array": [
+          "Phantom Black",
+          "White",
+          "Burgundy",
+          "Green",
+          "Graphite",
+          "Red",
+          "Sky Blue"
+        ],
+        "Height_mm": 146,
+        "Height_in": 5.7480314960629935,
+        "Width_mm": 70.6,
+        "Width_in": 2.7795275590551185,
+        "Weight_g": 167,
+        "Weight_oz": 5.890751645579929,
+        "Thickness_mm": 7.6,
+        "Thickness_in": 0.2992125984251969,
+        "Thickness_inch": 0.3
+      },
+      "Peripheral": {
+        "Peripheral": ""
+      }
+    },
+    "Inside": {
+      "Software": {
+        "OS Version": "Google Android 12 (S), One UI 4.1",
+        "OS": "Google Android",
+        "Additional Features": "Augmented Reality (AR), Business card recognition, Face Recognition, Intelligent personal assistant, Navigation software, Virtual Reality (VR) support, Voice Command, Voice Recognition"
+      },
+      "Processor": {
+        "CPU": "Qualcomm Snapdragon 8 Gen 1 5G SM8450 (Taro)",
+        "CPU Clock Speed": "2995 MHz",
+        "GPU Clock Speed": "818 MHz",
+        "GPU": "Qualcomm Adreno 730",
+        "CPU Clock Speed_MHz": 2995,
+        "GPU Clock Speed_MHz": 818
+      },
+      "RAM": {
+        "Type": "LPDDR5 SDRAM",
+        "Clock Speed": "3200 MHz",
+        "Capacity": "8 GB",
+        "Clock Speed_MHz": 3200,
+        "Capacity_Array": [
+          "8 GB"
+        ]
+      },
+      "Storage": {
+        "Type": "Flash EEPROM",
+        "Capacity": "128 GB, 256 GB",
+        "Capacity_Array": [
+          "128 GB",
+          "256 GB"
+        ]
+      },
+      "Audio": {
+        "AV Out": "DisplayPort, Type C",
+        "AV Resolution": "3840x2160 (2160p) 4K UHD",
+        "Channel": "stereo",
+        "Microphone": "stereo",
+        "ADC Frequency": "384000 Hz",
+        "ADC Resolution": "32 bit",
+        "DAC Resolution": "32 bit",
+        "Output": "USB Type-C",
+        "DAC Frequency": "384000 Hz",
+        "Hearing Aid Compatibility": "M3, T3"
+      },
+      "Cellular": {
+        "SIM Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), UMTS 2100MHz (Band I, IMT), UMTS 1900MHz (Band II, PCS), UMTS 1700/2100MHz (Band IV, AWS), UMTS 850MHz (Band V, CLR), UMTS 900MHz (Band VIII), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 700 MHz (Band 29), LTE 2300 MHz (Band 30), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI), TD-LTE 5900 MHz (Band XLVI), LTE 1700/2100 MHz (Band 66), LTE 600 MHz (Band 71), NR 1900 MHz (N2, PCS), NR 850 MHz (N5), TD-NR 2600 MHz (N38), TD-NR 2500 MHz (N41), NR 1700/2100 MHz (N66), NR 600 MHz (N71) bands",
+        "Chip": "Qualcomm SM8450",
+        "SIM Mobile Data": "GPRS (Class unspecified), GPRS Class 12, GPRS Multi-slot Class 33, EDGE (Class unspecified), EDGE Multi-slot Class 12, UMTS 384 kbps (W-CDMA), HSUPA (Cat. unspecified), HSUPA 5.76 Mbps (Cat. 6), HSDPA (Cat. unspecified), HSPA+ 21.1 Mbps (Cat. 18), DC-HSDPA 42.2 Mbps (Cat. 24), LTE (Cat. unspecified), LTE 100 Mbps / 50 Mbps (Cat. 3), LTE 150 Mbps / 50 Mbps (Cat. 4), LTE 300 Mbps / 50 Mbps (Cat. 6), LTE 300 Mbps / 75 Mbps (Cat. 5), LTE 300 Mbps / 100 Mbps (Cat. 7), LTE 400 Mbps / 150 Mbps (LTE Cat. 13), LTE 450 Mbps / 50 Mbps (LTE Cat. 9), LTE 450 Mbps / 100 Mbps (LTE Cat. 10), LTE 600 Mbps / 50 Mbps (LTE Cat. 11), LTE 600 Mbps / 100 Mbps (LTE Cat. 12), LTE 1 Gbps / 100 Mbps (LTE Cat. 16), LTE 1.2 Gbps / 200 Mbps (LTE Cat. 18), LTE 1.6 Gbps (LTE Cat. 19), NR 1.5 Gbps, NR 2.6 Gbps, NR 3.7 Gbps data links",
+        "SIM Slot": "e-SIM (embedded)",
+        "SIM II Frequencies": "GSM 850MHz (B5), GSM 900MHz (B8), GSM 1800MHz (B3), GSM 1900MHz (PCS, B2), UMTS 2100MHz (Band I, IMT), UMTS 1900MHz (Band II, PCS), UMTS 1700/2100MHz (Band IV, AWS), UMTS 850MHz (Band V, CLR), UMTS 900MHz (Band VIII), LTE 2100 MHz (Band 1), LTE 1900 MHz (Band 2, PCS), LTE 1800 MHz (Band 3), LTE 1700/2100 MHz (Band 4, AWS), LTE 850 MHz (Band 5), LTE 2600 MHz (Band 7), LTE 900 MHz (Band 8), LTE 700 MHz (Band 12), LTE 700 MHz (Band 13), LTE 800 MHz (Band 18), LTE 800 MHz (Band 19), LTE 800 MHz (Band 20), LTE 1900 MHz (Band 25), LTE 700 MHz (Band 29), LTE 2300 MHz (Band 30), TD-LTE 2600 MHz (Band 38), TD-LTE 1900 MHz (Band 39), TD-LTE 2300 MHz (Band XL), TD-LTE 2500 MHz (Band XLI), TD-LTE 5900 MHz (Band XLVI), LTE 1700/2100 MHz (Band 66), NR 1900 MHz (N2, PCS), NR 850 MHz (N5), TD-NR 2600 MHz (N38), TD-NR 2500 MHz (N41), NR 1700/2100 MHz (N66), NR 600 MHz (N71)",
+        "SIM II Mobile Data": "GPRS (Class unspecified), GPRS Class 12, GPRS Multi-slot Class 33, EDGE (Class unspecified), EDGE Multi-slot Class 12, UMTS 384 kbps (W-CDMA), HSUPA (Cat. unspecified), HSUPA 5.76 Mbps (Cat. 6), HSDPA (Cat. unspecified), HSPA+ 21.1 Mbps (Cat. 18), HSPA+ 42.2 Mbps (Cat. 20), DC-HSDPA 42.2 Mbps (Cat. 24), LTE 100 Mbps / 50 Mbps (Cat. 3), LTE 150 Mbps / 50 Mbps (Cat. 4), LTE 300 Mbps / 50 Mbps (Cat. 6), LTE 300 Mbps / 75 Mbps (Cat. 5), LTE 300 Mbps / 100 Mbps (Cat. 7), LTE 400 Mbps / 150 Mbps (LTE Cat. 13), LTE 450 Mbps / 50 Mbps (LTE Cat. 9), LTE 450 Mbps / 100 Mbps (LTE Cat. 10), LTE 600 Mbps / 50 Mbps (LTE Cat. 11), LTE 600 Mbps / 100 Mbps (LTE Cat. 12), LTE 1 Gbps / 100 Mbps (LTE Cat. 16), LTE 1.2 Gbps / 200 Mbps (LTE Cat. 18), LTE 1.6 Gbps (LTE Cat. 19), NR 1.5 Gbps, NR 2.6 Gbps, NR 3.7 Gbps",
+        "SIM II Slot": "Nano-SIM (4FF)",
+        "Dual Sim Type": "Dual standby",
+        "SIM II Module": "Qualcomm SM8450",
+        "Carrier": "Bell Mobility Fido Solutions Manitoba Telecom Services Rogers Wireless Saskatchewan Telecommunications Holding Tbaytel CA Telus Mobility Videotron GP Virgin Mobile Canada Wind Mobile Canada / Freedom Mobile",
+        "Generation": "5G",
+        "SIM Type": "Dual"
+      },
+      "Wireless": {
+        "Bluetooth Version": " 5.2",
+        "WiFi": "IEEE 802.11a, IEEE 802.11b, IEEE 802.11g, IEEE 802.11n, IEEE 802.11ac, IEEE 802.11ax (Wi-Fi 6)",
+        "WiFi Features": "DLNA, Miracast, Wi-Fi Direct, Wi-Fi Tethering, WiDi, Wi-Fi Calling (VoWiFi)",
+        "Bluetooth Profiles": "A2DP, A2DP with aptX codec, A2DP with aptX HD codec, AVRCP, DIP, GAVDP, HFP, HID, HSP, MAP, OPP, PAN, PBA, SAP, SPP",
+        "Experiences": "FM Radio,  NFC"
+      },
+      "Battery": {
+        "Charging Power": "25.0 W",
+        "Wireless Charging": "PMA wireless charging, Qi wireless charging",
+        "Current": "247 mA",
+        "Energy": "14.36 Wh",
+        "Talk Time": "29.0 hours",
+        "Standby Current Consumption": "14 mA",
+        "Wireless Charging Power": "15.0 W",
+        "Life": "15.0 hours",
+        "Type": "Lithium-ion — 1 cell",
+        "Capacity": "3700 mAh",
+        "Standby Time": "260 hours",
+        "Voltage": "3.88 Volts",
+        "Style": "Non-removable",
+        "Charging Power_W": 25,
+        "Capacity_mAh": 3700,
+        "Energy_W": 14.36
+      },
+      "Location": {
+        "Chip": "Qualcomm SM8450",
+        "Additional Features": "GPS,  Galileo,  GLONASS"
+      },
+      "Sensors": {
+        "Sensors": "Barometer, In-screen fingerprint sensor, Hall sensor, Heart rate sensor, Light intensity sensor, Proximity sensor, Step counter,  Accelerometer,  Compass,  Gyroscope "
+      },
+      "Ports": {
+        "USB Type": "Type C",
+        "USB Version": "3.2 Gen 2x2, Hi-Speed (480 Mbps)",
+        "USB Features": "charging, fast charging, Host, On-The-Go 1.3, On-The-Go 2.0, Power Delivery, Power Delivery 2.0, Power Delivery 3.0"
+      }
+    },
+    "Display": {
+      "Dynamic Range": "10 bit",
+      "Punch hole": "1",
+      "Subpixels": "The data will be added shortly",
+      "Glass": "Corning Gorilla Glass Victus",
+      "Type": "Dynamic AMOLED",
+      "Pixel Size": "0.05972 mm/pixel",
+      "Screen to Body Ratio": "87.4%",
+      "Resolution (H x W)": "1080x2340",
+      "Color Depth": "24 bit",
+      "Number of Colors": "16.8M",
+      "Width": "64.49 mm, 2.54 inch",
+      "Height": "139.73 mm, 5.5 inch",
+      "Illumination": "Self-illuminating",
+      "Pixel Density": "425 PPI",
+      "Bezel Width": "6.11 mm, 0.24 inch(es)",
+      "Module": "Samsung",
+      "Diagonal": "153.9 mm, 6.1 inch",
+      "LCD Mode": "The data will be added shortly",
+      "Refresh Rate": "120 Hz, 240 Hz",
+      "Touchpoints": "10",
+      "Touch screen Type": "Capacitive",
+      "Width_mm": 64.49,
+      "Width_in": 2.538976377952756,
+      "Height_mm": 139.73,
+      "Height_in": 5.501181102362205,
+      "Bezel Width_mm": 6.11,
+      "Bezel Width_in": 0.24055118110236226,
+      "Diagonal_mm": 153.9,
+      "Diagonal_in": 6.059055118110237,
+      "Pixel Density_PPI": 425,
+      "Screen to Body Ratio_%": 87.4
+    },
+    "No": {
+      "Expansion": "Expandable Storage",
+      "FM Radio": "FM Radio"
+    },
+    "Camera": {
+      "Back Camera": {
+        "Focus": "Phase-Detection Autofocus (PD AF)",
+        "Equivalent Focal Length": "24 mm",
+        "Resolution (H x W)": "8192x6144 pixel",
+        "Video Format": "3G2, HEVC",
+        "Video Resolution": "7680x4320 pixel, 24 fps",
+        "Image Format": "JPG, HEIF",
+        "Pixel Size": "1.00 micrometer",
+        "Module": "Samsung S5KGN5",
+        "Zoom": "3.0 x optical zoom, 10.0 x digital zoom",
+        "Flash": "single LED",
+        "Aperture (W)": "f/1.80",
+        "Features": "Electronic Image Stabilizer (EIS), Video Stabilizer (EIS), Optical Image Stabilization (OIS), Video Stabilizer (OIS), Pixel unification, HDR photo, HDR video, Red-eye effect reduction, Slow motion video, Burst mode, Refocus, Touch focus, Macro mode, Panorama Photo, Face detection, Face tagging, Smile detection, Face retouch, Face retouch (video), Intelligent scene detection",
+        "Resolution": "50.3 MP",
+        "Sensor Format": "1/1.56",
+        "Sensor": "BSI CMOS",
+        "Resolution_MP": 50.3,
+        "Aperture (W)_f/": 1.8
+      },
+      "Back Camera II": {
+        "Resolution": "12.2 MP",
+        "Module": "Sony IMX563",
+        "Pixel Size": "1.40 micrometer",
+        "Features": "Video Stabilizer (EIS), HDR photo, HDR video, Slow motion video, Burst mode, Touch focus, Macro mode, Panorama Photo, Face detection, Face tagging, Smile detection, Face retouch, Face retouch (video), Intelligent scene detection",
+        "Sensor": "BSI CMOS",
+        "Sensor Format": "1/2.55",
+        "Aperture (W)": "f/2.20",
+        "Equivalent Focal Length": "13 mm",
+        "Focus": "Phase-Detection Autofocus (PD AF)",
+        "Resolution_MP": 12.2,
+        "Aperture (W)_f/": 2.2
+      },
+      "Back Camera III": {
+        "Equivalent Focal Length": "69 mm",
+        "Resolution": "10.0 MP",
+        "Sensor Format": "1/3.94",
+        "Features": "Optical Image Stabilization (OIS), HDR photo, Burst mode, Panorama Photo, Intelligent scene detection",
+        "Aperture (W)": "f/2.40",
+        "Pixel Size": "1.00 micrometer",
+        "Focus": "Phase-Detection Autofocus (PD AF)",
+        "Sensor": "BSI CMOS",
+        "Resolution_MP": 10,
+        "Aperture (W)_f/": 2.4
+      },
+      "Back Camera IV": {
+        "Sensor": "",
+        "Aperture (W)": "f/4.90",
+        "Resolution": "10.0 MP",
+        "Resolution_MP": 10,
+        "Aperture (W)_f/": 4.9
+      },
+      "Back Camera V": {
+        "Focus": "",
+        "Sensor": ""
+      },
+      "Front Camera": {
+        "Pixel Size": "1.22 micrometer",
+        "Aperture (W)": "f/2.20",
+        "Video Format": "3GP, 3G2, HEVC",
+        "Resolution (H x W)": "3648x2736 pixel",
+        "Module": "Sony IMX374",
+        "Resolution": "10.0 MP",
+        "Features": "HDR photo, HDR video, Slow motion video, Burst mode, Touch focus, Panorama Photo, Face detection, Face tagging, Smile detection, Face retouch, Face retouch (video), Intelligent scene detection",
+        "Focus": "Phase-Detection Autofocus (PD AF)",
+        "Sensor": "BSI CMOS",
+        "Image Format": "JPG, HEIF, 30 fps",
+        "Minimum Focal Length": "26 mm",
+        "Sensor Format": "1/3.24"
+      },
+      "Front Camera II": {
+        "Sensor": ""
+      },
+      "Front Camera III": {
+        "Sensor": ""
+      }
+    },
+    "Price": {
+      "MSRP": "938, 989 USD"
+    },
+    "Ratings": {
+      "average_rating": "",
+      "total_ratings": ""
+    },
+    "Key Aspects": {
+      "MSRP": "938, 989 USD",
+      "Release Date": "2022-02-01",
+      "Colors": "Phantom Black, White, Burgundy, Green, Graphite, Red, Sky Blue",
+      "Display": "Dynamic AMOLED, 1080x2340",
+      "Camera": "50.3 MP main back camera, 12.2 MP secondary back camera, 10.0 MP front camera",
+      "OS": "Google Android, Google Android 12 (S), One UI 4.1",
+      "Processor": "Qualcomm Snapdragon 8 Gen 1 5G SM8450 (Taro)",
+      "RAM": "8 GB",
+      "Storage": "128 GB, 256 GB",
+      "Battery": "3700 mAh, supports PMA wireless charging, Qi wireless charging, with 25.0 W charging power",
+      "Wireless & Cellular": "5G, Dual SIM (e-SIM (embedded)), Bluetooth  5.2, and  IEEE 802.11ax (Wi-Fi 6)",
+      "Additional Features": "Augmented Reality (AR), Business card recognition, Face Recognition, Intelligent personal assistant, Navigation software, Virtual Reality (VR) support, Voice Command, Voice Recognition, GPS,  Galileo,  GLONASS"
+    },
+    "Thumbnail": {
+      "Image_1": "https://thumbnail-techspecs-io.s3.amazonaws.com/thumbnail_1_63e96260ff7af4b68a303f3f.jpg",
+      "Image_2": "https://thumbnail-techspecs-io.s3.amazonaws.com/thumbnail_2_63e96260ff7af4b68a303f3f.jpg"
+    },
+    "english_id": "63e96260ff7af4b68a303f3f",
+    "is_translated": true,
+    "added_on": "2023-02-12T22:04:16.000Z"
+  }
+}
